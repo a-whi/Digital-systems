@@ -1,4 +1,5 @@
 # ECE2072
+Assignment work from my ECE2072 engineering class at university. (Digital Systems)
 Assignment 2022 is a pdf document explaining the assignment.
 
 There are 3 parts to the assignment with the third part using the second parts module. 
